@@ -28,6 +28,9 @@ Thumbs.db
 *.tsbuildinfo
 next-env.d.ts
 
+# Temp cleanup artifacts
+*.clean.ts
+
 # Data pipeline scripts (not needed in production)
 enrich_rawg.mjs
 caseoh_games_clean.json
