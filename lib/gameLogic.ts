@@ -162,8 +162,8 @@ function seededShuffle<T>(arr: T[], seed: number): T[] {
   return result;
 }
 
-/** Epoch: first day the game could be played (adjust when you launch) */
-const EPOCH_MS = new Date('2025-01-01T00:00:00Z').getTime();
+/** Epoch: Day 1 was 2026-06-17, so today (2026-06-18) = Day 2 */
+const EPOCH_MS = new Date('2026-06-17T00:00:00Z').getTime();
 const FIXED_SEED = 0xca5e0000; // "case" → consistent shuffle forever
 
 /**
