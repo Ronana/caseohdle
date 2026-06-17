@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { @apply bg-game-bg text-white; }
+  * { box-sizing: border-box; }
+
+  ::-webkit-scrollbar       { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: #0d1117; }
+  ::-webkit-scrollbar-thumb { background: #374151; border-radius: 3px; }
+}
+
+@layer utilities {
+  .glow-accent {
+    box-shadow: 0 0 20px rgba(56, 189, 248, 0.25);
+  }
+  .glow-green {
+    box-shadow: 0 0 12px rgba(22, 163, 74, 0.4);
+  }
+}
