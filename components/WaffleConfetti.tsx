@@ -14,17 +14,17 @@ interface Particle {
 }
 
 const PARTICLE_COUNT = 55;
-const GRAVITY = 0.25;
-const DURATION_MS = 5000; // total animation length before fade-out completes
+const GRAVITY = 0.06;           // was 0.25 — gentle float instead of fast drop
+const DURATION_MS = 9000;       // was 5000 — 9 seconds so you can actually see them
 
 function makeParticle(canvasWidth: number): Particle {
   return {
     x: Math.random() * canvasWidth,
-    y: -40 - Math.random() * 120,      // start above the screen
-    vx: (Math.random() - 0.5) * 5,
-    vy: 1.5 + Math.random() * 3,
+    y: -40 - Math.random() * 200,      // more spread above screen so they trickle in
+    vx: (Math.random() - 0.5) * 2.5,   // was 5 — gentler horizontal drift
+    vy: 0.6 + Math.random() * 1.2,     // was 1.5+3 — much slower initial fall
     rotation: Math.random() * Math.PI * 2,
-    rotationSpeed: (Math.random() - 0.5) * 0.12,
+    rotationSpeed: (Math.random() - 0.5) * 0.06,  // was 0.12 — slower spin
     size: 36 + Math.random() * 28,     // 36–64 px
     opacity: 1,
   };
@@ -69,9 +69,9 @@ export default function WaffleConfetti() {
           p.y        += p.vy;
           p.rotation += p.rotationSpeed;
 
-          // Fade out in the last 25 % of the run
-          p.opacity = progress > 0.75
-            ? 1 - (progress - 0.75) / 0.25
+          // Fade out in the last 20 % of the run (was 25%)
+          p.opacity = progress > 0.80
+            ? 1 - (progress - 0.80) / 0.20
             : 1;
 
           const half = p.size / 2;
