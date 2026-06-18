@@ -9,24 +9,26 @@ interface Particle {
   vy: number;
   rotation: number;
   rotationSpeed: number;
-  size: number; // rendered px
+  size: number;
   opacity: number;
 }
 
-const PARTICLE_COUNT = 55;
-const GRAVITY = 0.06;           // was 0.25 — gentle float instead of fast drop
-const DURATION_MS = 9000;       // was 5000 — 9 seconds so you can actually see them
+const PARTICLE_COUNT  = 55;
+const GRAVITY         = 0.015;   // barely any gravity
+const MAX_FALL_SPEED  = 1.4;     // terminal velocity — never faster than this
+const DURATION_MS     = 11000;   // 11 seconds total
 
 function makeParticle(canvasWidth: number): Particle {
   return {
-    x: Math.random() * canvasWidth,
-    y: -40 - Math.random() * 200,      // more spread above screen so they trickle in
-    vx: (Math.random() - 0.5) * 2.5,   // was 5 — gentler horizontal drift
-    vy: 0.6 + Math.random() * 1.2,     // was 1.5+3 — much slower initial fall
-    rotation: Math.random() * Math.PI * 2,
-    rotationSpeed: (Math.random() - 0.5) * 0.06,  // was 0.12 — slower spin
-    size: 36 + Math.random() * 28,     // 36–64 px
-    opacity: 1,
+    // Spawn just above the top edge, staggered so they don't all enter at once
+    x:             Math.random() * canvasWidth,
+    y:             -30 - Math.random() * 350,
+    vx:            (Math.random() - 0.5) * 1.8,
+    vy:            0.3 + Math.random() * 0.7,   // very slow initial fall: 0.3–1.0
+    rotation:      Math.random() * Math.PI * 2,
+    rotationSpeed: (Math.random() - 0.5) * 0.05,
+    size:          36 + Math.random() * 28,
+    opacity:       1,
   };
 }
 
@@ -39,7 +41,6 @@ export default function WaffleConfetti() {
     const ctx = canvas.getContext('2d');
     if (!ctx) return;
 
-    // Fill viewport
     canvas.width  = window.innerWidth;
     canvas.height = window.innerHeight;
 
@@ -63,13 +64,13 @@ export default function WaffleConfetti() {
         ctx!.clearRect(0, 0, canvas!.width, canvas!.height);
 
         for (const p of particles) {
-          // Physics
-          p.vy       += GRAVITY;
+          // Gravity with terminal velocity cap
+          p.vy        = Math.min(p.vy + GRAVITY, MAX_FALL_SPEED);
           p.x        += p.vx;
           p.y        += p.vy;
           p.rotation += p.rotationSpeed;
 
-          // Fade out in the last 20 % of the run (was 25%)
+          // Fade out in the last 20 % of the run
           p.opacity = progress > 0.80
             ? 1 - (progress - 0.80) / 0.20
             : 1;
