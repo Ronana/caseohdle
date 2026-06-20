@@ -4,23 +4,19 @@ import { useState } from 'react';
 import { getHints, type Hint } from '@/lib/hints';
 
 interface Props {
-  gameName:    string;  // the answer — only passed when we're allowed to hint
-  guessCount:  number;
-  gameOver:    boolean;
+  gameName:   string;  // the answer — only passed when we're allowed to hint
+  guessCount: number;  // kept for potential future use
+  gameOver:   boolean;
 }
 
-const HINT_TRIGGER = 5;  // show button after this many guesses
-const MAX_HINTS    = 3;
+const MAX_HINTS = 3;
 
 export default function HintPanel({ gameName, guessCount, gameOver }: Props) {
   const [revealed, setRevealedCount] = useState(0);
 
-  const hints    = getHints(gameName);
-  const canHint  = guessCount >= HINT_TRIGGER && !gameOver;
-  const hasMore  = revealed < MAX_HINTS;
-
-  // Don't render anything until the trigger is reached
-  if (guessCount < HINT_TRIGGER) return null;
+  const hints   = getHints(gameName);
+  const canHint = !gameOver;
+  const hasMore = revealed < MAX_HINTS;
 
   const shownHints: Hint[] = hints.slice(0, revealed);
 

@@ -13,14 +13,14 @@ export default function GuessGrid({ guesses, soundEnabled }: Props) {
   const t = useT();
 
   const HEADERS = [
-    { label: t.colGame,      width: 'min-w-[160px] max-w-[200px]' },
-    { label: t.colGenre,     width: 'min-w-[80px]' },
-    { label: t.colPlatform,  width: 'min-w-[80px]' },
-    { label: t.colYear,      width: 'min-w-[80px]' },
-    { label: t.colDeveloper, width: 'min-w-[80px]' },
-    { label: t.colViewers,   width: 'min-w-[80px]' },
-    { label: t.colHours,     width: 'min-w-[80px]' },
-    { label: t.colLastSeen,  width: 'min-w-[80px]' },
+    { label: t.colGame,      width: 'w-[200px] flex-none' },
+    { label: t.colGenre,     width: 'w-[80px]  flex-none' },
+    { label: t.colPlatform,  width: 'w-[80px]  flex-none' },
+    { label: t.colYear,      width: 'w-[80px]  flex-none' },
+    { label: t.colDeveloper, width: 'w-[80px]  flex-none' },
+    { label: t.colViewers,   width: 'w-[80px]  flex-none' },
+    { label: t.colHours,     width: 'w-[80px]  flex-none' },
+    { label: t.colLastSeen,  width: 'w-[80px]  flex-none' },
   ];
 
   return (

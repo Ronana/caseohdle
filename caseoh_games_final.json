@@ -1706,7 +1706,7 @@
     "followers_per_hr": 591,
     "last_seen": "07/Feb/2026",
     "rawg_matched": true,
-    "rawg_name": "UMIGARI | \u30a6\u30df\u30ac\u30ea",
+    "rawg_name": "UMIGARI",
     "genres": [
       "Indie",
       "Adventure"
@@ -1746,7 +1746,7 @@
   },
   {
     "rank": 74,
-    "game": "Don\u2019t Sleep with the Fishes",
+    "game": "Don't Sleep with the Fishes",
     "hours_streamed": 7.2,
     "pct_airtime": 0.1,
     "avg_viewers": 57068,
@@ -1754,13 +1754,13 @@
     "followers_per_hr": 750,
     "last_seen": "15/Jun/2026",
     "rawg_matched": false,
-    "rawg_name": null,
-    "genres": null,
-    "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "rawg_name": "Don't Sleep with the Fishes",
+    "genres": "Survival",
+    "platforms": "PC",
+    "release_year": 2026,
+    "developer": "DopplerGhost",
+    "primary_genre": "Survival",
+    "platform_simple": "PC"
   },
   {
     "rank": 75,
@@ -1788,7 +1788,7 @@
     ],
     "release_year": 2015,
     "developer": "Scott Cawthon",
-    "primary_genre": "Strategy",
+    "primary_genre": "Horror",
     "platform_simple": "Multi-platform"
   },
   {
@@ -1810,7 +1810,7 @@
     ],
     "release_year": 2020,
     "developer": "NatsirT_TristaN",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "Multi-platform"
   },
   {
@@ -1853,7 +1853,7 @@
     ],
     "release_year": 2021,
     "developer": "Crush_Smh",
-    "primary_genre": null,
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -1878,7 +1878,7 @@
     ],
     "release_year": 2022,
     "developer": "Supermassive Games",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "Multi-platform"
   },
   {
@@ -2004,7 +2004,7 @@
     ],
     "release_year": 2020,
     "developer": "Kinetic Games",
-    "primary_genre": "Action",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -2029,7 +2029,7 @@
     ],
     "release_year": 2024,
     "developer": "Endnight Games",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -2080,7 +2080,7 @@
     ],
     "release_year": 2022,
     "developer": "Ruxaroh",
-    "primary_genre": "Strategy",
+    "primary_genre": "Simulation",
     "platform_simple": "Multi-platform"
   },
   {
@@ -2178,7 +2178,7 @@
     ],
     "release_year": 2022,
     "developer": "DiegoA233",
-    "primary_genre": "Puzzle",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -2327,7 +2327,7 @@
     ],
     "release_year": 2024,
     "developer": "CreepyToad",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -2376,7 +2376,7 @@
     ],
     "release_year": 2023,
     "developer": "Rayll",
-    "primary_genre": "Casual",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -2425,7 +2425,7 @@
     ],
     "release_year": 2015,
     "developer": "Cbear Wallis",
-    "primary_genre": "Shooter",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -2548,8 +2548,8 @@
       "PC"
     ],
     "release_year": 2026,
-    "developer": null,
-    "primary_genre": "Indie",
+    "developer": "GAZE IN GAMES",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -2602,7 +2602,7 @@
     ],
     "release_year": 2019,
     "developer": "Steel Wool Studios",
-    "primary_genre": "Casual",
+    "primary_genre": "Horrorl",
     "platform_simple": "Multi-platform"
   },
   {
@@ -2709,13 +2709,13 @@
     "followers_per_hr": 607,
     "last_seen": "23/Apr/2026",
     "rawg_matched": false,
-    "rawg_name": null,
-    "genres": null,
-    "platforms": null,
-    "release_year": null,
+    "rawg_name": "Captured 2",
+    "genres": "Horror",
+    "platforms": "PC",
+    "release_year": 2026,
     "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 114,
@@ -2764,7 +2764,7 @@
     ],
     "release_year": 2023,
     "developer": "FerriteLabs",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -3105,7 +3105,7 @@
     ],
     "release_year": 2022,
     "developer": "Rayll",
-    "primary_genre": "Casual",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -3168,13 +3168,13 @@
     "followers_per_hr": 908,
     "last_seen": "12/Jun/2026",
     "rawg_matched": false,
-    "rawg_name": null,
-    "genres": null,
-    "platforms": null,
-    "release_year": null,
+    "rawg_name": "Burglin' Gnomes",
+    "genres": "Action",
+    "platforms": "PC",
+    "release_year": 2026,
     "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "primary_genre": "Action",
+    "platform_simple": "PC"
   },
   {
     "rank": 133,
@@ -3226,7 +3226,7 @@
     ],
     "release_year": 2016,
     "developer": "Scott Cawthon",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "Multi-platform"
   },
   {
@@ -3239,13 +3239,13 @@
     "followers_per_hr": 1247,
     "last_seen": "31/Jul/2025",
     "rawg_matched": false,
-    "rawg_name": null,
-    "genres": null,
-    "platforms": null,
-    "release_year": null,
+    "rawg_name": "Joker Show: Horror Escape",
+    "genres": "Horror",
+    "platforms": "PC",
+    "release_year": 2026,
     "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 136,
@@ -3268,12 +3268,12 @@
     ],
     "release_year": 2024,
     "developer": "Rayll Studios",
-    "primary_genre": "Casual",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
     "rank": 137,
-    "game": "God of War Ragnar\u00f6k",
+    "game": "God of War Ragnarok",
     "hours_streamed": 3.4,
     "pct_airtime": 0.1,
     "avg_viewers": 260,
@@ -3281,7 +3281,7 @@
     "followers_per_hr": 12,
     "last_seen": "10/Nov/2022",
     "rawg_matched": true,
-    "rawg_name": "God of War Ragnar\u00f6k",
+    "rawg_name": "God of War Ragnarok",
     "genres": [
       "Adventure",
       "Action",
@@ -3388,7 +3388,7 @@
     ],
     "release_year": 2024,
     "developer": "Tainted Pact",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -3401,13 +3401,13 @@
     "followers_per_hr": 84.8,
     "last_seen": "11/Apr/2023",
     "rawg_matched": false,
-    "rawg_name": null,
-    "genres": null,
-    "platforms": null,
+    "rawg_name": "HITMAN World of Assassination",
+    "genres": "Shooter",
+    "platforms": "Shooter",
     "release_year": null,
     "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "primary_genre": "Shooter",
+    "platform_simple": "PC"
   },
   {
     "rank": 143,
@@ -3430,7 +3430,7 @@
     ],
     "release_year": 2022,
     "developer": "Rayll",
-    "primary_genre": "Casual",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -3480,7 +3480,7 @@
     ],
     "release_year": 2023,
     "developer": "Steel Wool Studios",
-    "primary_genre": "Arcade",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -3574,7 +3574,7 @@
     ],
     "release_year": 2024,
     "developer": "Digital Cybercherries",
-    "primary_genre": "Casual",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -3648,7 +3648,7 @@
     ],
     "release_year": 2025,
     "developer": "Noirbit",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -3823,7 +3823,7 @@
     ],
     "release_year": 2023,
     "developer": "Visual Concepts",
-    "primary_genre": "Simulation",
+    "primary_genre": "Sports",
     "platform_simple": "Multi-platform"
   },
   {
@@ -4017,7 +4017,7 @@
     ],
     "release_year": 2023,
     "developer": "Rayll Studios",
-    "primary_genre": "Casual",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {

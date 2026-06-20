@@ -126,7 +126,7 @@ export default function GuessRow({ result, index, soundEnabled }: Props) {
         {/* Game name — reveals first */}
         <div
           className={`
-            flex items-center gap-2 min-w-[190px] max-w-[240px] h-14 px-2 rounded text-xs
+            flex items-center gap-2 w-[200px] flex-none h-14 px-2 rounded text-xs
             transition-all duration-300
             ${visible(0)
               ? 'bg-game-card border border-game-border opacity-100 animate-pop'
