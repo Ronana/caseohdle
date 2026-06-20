@@ -20,10 +20,18 @@ export default function GuessInput({ guessedRanks, onGuess }: Props) {
 
   const filtered = query.length < 1
     ? []
-    : GAMES_ALPHA
-        .filter(g => !guessedRanks.includes(g.rank))
-        .filter(g => g.game.toLowerCase().includes(query.toLowerCase()))
-        .slice(0, 10);
+    : (() => {
+        const q = query.toLowerCase();
+        const pool = GAMES_ALPHA.filter(g => !guessedRanks.includes(g.rank));
+        const matches = pool.filter(g => g.game.toLowerCase().includes(q));
+        // Prioritise: starts-with query > contains query elsewhere
+        matches.sort((a, b) => {
+          const aStarts = a.game.toLowerCase().startsWith(q) ? 0 : 1;
+          const bStarts = b.game.toLowerCase().startsWith(q) ? 0 : 1;
+          return aStarts - bStarts; // ties keep existing alphabetical order
+        });
+        return matches.slice(0, 10);
+      })();
 
   useEffect(() => { setFocusIdx(0); }, [query]);
 
