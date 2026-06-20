@@ -37,7 +37,7 @@ function Cell({ status, primary, sub, visible }: CellProps) {
     <div
       className={`
         flex flex-col items-center justify-center gap-0.5
-        min-w-[80px] h-14 px-1 rounded text-center text-xs font-medium
+        w-[80px] flex-none h-14 px-1 rounded text-center text-xs font-medium overflow-hidden
         transition-all duration-300
         ${visible ? `${STATUS_BG[status]} animate-pop` : 'bg-game-surface opacity-0'}
       `}
