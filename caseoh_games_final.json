@@ -22,7 +22,7 @@
     ],
     "release_year": 2022,
     "developer": "Visual Concepts",
-    "primary_genre": "Simulation",
+    "primary_genre": "Sports",
     "platform_simple": "Multi-platform"
   },
   {
@@ -76,7 +76,7 @@
     ],
     "release_year": 2019,
     "developer": "Robot Gentleman",
-    "primary_genre": "Adventure",
+    "primary_genre": "Survival",
     "platform_simple": "Multi-platform"
   },
   {
@@ -109,7 +109,7 @@
     ],
     "release_year": 2009,
     "developer": "4J Studios",
-    "primary_genre": "Action",
+    "primary_genre": "Adventure",
     "platform_simple": "Multi-platform"
   },
   {
@@ -154,7 +154,7 @@
     ],
     "release_year": 2006,
     "developer": "ROBLOX",
-    "primary_genre": "Racing",
+    "primary_genre": "Casual",
     "platform_simple": "Multi-platform"
   },
   {
@@ -205,7 +205,7 @@
     ],
     "release_year": 2023,
     "developer": "Avalanche Software",
-    "primary_genre": "Action",
+    "primary_genre": "RPG",
     "platform_simple": "Multi-platform"
   },
   {
@@ -252,7 +252,7 @@
     ],
     "release_year": null,
     "developer": null,
-    "primary_genre": "Adventure",
+    "primary_genre": "Simulation",
     "platform_simple": "PC"
   },
   {
@@ -327,7 +327,7 @@
     ],
     "release_year": 2025,
     "developer": "TVGS",
-    "primary_genre": "Strategy",
+    "primary_genre": "Simulation",
     "platform_simple": "PC"
   },
   {
@@ -351,7 +351,7 @@
     ],
     "release_year": 2024,
     "developer": "Nokta Games",
-    "primary_genre": "Casual",
+    "primary_genre": "Simulation",
     "platform_simple": "PC"
   },
   {
@@ -392,7 +392,7 @@
     "rawg_matched": true,
     "rawg_name": "Granny",
     "genres": [
-      "Arcade",
+      "Horror",
       "Indie",
       "Casual",
       "Adventure"
@@ -404,7 +404,7 @@
     ],
     "release_year": 2017,
     "developer": "DVloper",
-    "primary_genre": "Arcade",
+    "primary_genre": "Horror",
     "platform_simple": "Multi-platform"
   },
   {
@@ -503,7 +503,7 @@
     ],
     "release_year": 2020,
     "developer": "Digital Tours Interactive",
-    "primary_genre": "Casual",
+    "primary_genre": "Simulation",
     "platform_simple": "PC"
   },
   {
@@ -531,30 +531,6 @@
     "platform_simple": "PC"
   },
   {
-    "rank": 23,
-    "game": "Are You Smarter Than a 5th Grader?",
-    "hours_streamed": 26.8,
-    "pct_airtime": 0.5,
-    "avg_viewers": 51988,
-    "max_viewers": 69758,
-    "followers_per_hr": 897,
-    "last_seen": "12/Jun/2026",
-    "rawg_matched": true,
-    "rawg_name": "Are You Smarter Than a 5th Grader?",
-    "genres": [
-      "Casual"
-    ],
-    "platforms": [
-      "PC",
-      "Android",
-      "Nintendo"
-    ],
-    "release_year": 2007,
-    "developer": "Massive Miniteam",
-    "primary_genre": "Casual",
-    "platform_simple": "Multi-platform"
-  },
-  {
     "rank": 24,
     "game": "Fortnite",
     "hours_streamed": 25.9,
@@ -567,12 +543,14 @@
     "rawg_name": "Fortnite",
     "genres": [],
     "platforms": [
-      "Android"
+      "PC"
+      "PlayStation"
+      "Xbox"
     ],
     "release_year": 2021,
     "developer": "Gruillair",
-    "primary_genre": null,
-    "platform_simple": "Mobile"
+    "primary_genre": "Massively Multiplayer",
+    "platform_simple": "Multi-platform"
   },
   {
     "rank": 25,
@@ -600,7 +578,7 @@
     ],
     "release_year": 2014,
     "developer": "Scott Cawthon",
-    "primary_genre": "Strategy",
+    "primary_genre": "Horror",
     "platform_simple": "Multi-platform"
   },
   {
@@ -626,7 +604,7 @@
     ],
     "release_year": 2022,
     "developer": "DreadXP",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "Multi-platform"
   },
   {
@@ -818,7 +796,7 @@
     ],
     "release_year": 2024,
     "developer": "DelusionArt Studio",
-    "primary_genre": "Casual",
+    "primary_genre": "Simulation",
     "platform_simple": "PC"
   },
   {
@@ -920,7 +898,7 @@
     ],
     "release_year": 2022,
     "developer": "FromSoftware",
-    "primary_genre": "Action",
+    "primary_genre": "RPG",
     "platform_simple": "Multi-platform"
   },
   {
@@ -943,7 +921,7 @@
     ],
     "release_year": 2022,
     "developer": "Fancy Games",
-    "primary_genre": "Indie",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -967,7 +945,7 @@
     ],
     "release_year": 2021,
     "developer": "MOB Games",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -980,13 +958,13 @@
     "followers_per_hr": 533,
     "last_seen": "24/Apr/2026",
     "rawg_matched": false,
-    "rawg_name": null,
-    "genres": null,
-    "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "rawg_name": "Horsey Game",
+    "genres": "Casual",
+    "platforms": "PC",
+    "release_year": "2026",
+    "developer": "N/A",
+    "primary_genre": "Casual",
+    "platform_simple": "PC"
   },
   {
     "rank": 42,
@@ -1000,7 +978,7 @@
     "rawg_matched": true,
     "rawg_name": "Granny 3",
     "genres": [
-      "Indie",
+      "Horror",
       "Adventure"
     ],
     "platforms": [
@@ -1008,7 +986,7 @@
     ],
     "release_year": 2021,
     "developer": "DVloper",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -1060,7 +1038,7 @@
     ],
     "release_year": 2025,
     "developer": "Trioskaz",
-    "primary_genre": "Simulation",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -1199,7 +1177,7 @@
     "rawg_matched": true,
     "rawg_name": "Granny: Chapter Two",
     "genres": [
-      "Arcade",
+      "Horror",
       "Indie",
       "Casual",
       "Adventure"
@@ -1211,7 +1189,7 @@
     ],
     "release_year": 2019,
     "developer": "DVloper",
-    "primary_genre": "Arcade",
+    "primary_genre": "Horror",
     "platform_simple": "Multi-platform"
   },
   {
@@ -1334,7 +1312,7 @@
     ],
     "release_year": 2017,
     "developer": "Red Barrels",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "Multi-platform"
   },
   {
@@ -1407,7 +1385,7 @@
     ],
     "release_year": 2020,
     "developer": "Baggy Cat",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -1427,7 +1405,7 @@
     ],
     "release_year": 2021,
     "developer": "bricky_yt",
-    "primary_genre": null,
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -1510,29 +1488,7 @@
     "primary_genre": "Shooter",
     "platform_simple": "Multi-platform"
   },
-  {
-    "rank": 63,
-    "game": "Special Events",
-    "hours_streamed": 8.9,
-    "pct_airtime": 0.2,
-    "avg_viewers": 52871,
-    "max_viewers": 110574,
-    "followers_per_hr": 3971,
-    "last_seen": "13/Dec/2024",
-    "rawg_matched": true,
-    "rawg_name": "Special Events Racing",
-    "genres": [
-      "Racing",
-      "Arcade"
-    ],
-    "platforms": [
-      "PC"
-    ],
-    "release_year": 2004,
-    "developer": "Media Research Group",
-    "primary_genre": "Racing",
-    "platform_simple": "PC"
-  },
+
   {
     "rank": 64,
     "game": "Outlast",
@@ -1636,7 +1592,7 @@
     ],
     "release_year": 2023,
     "developer": "Capcom",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "Multi-platform"
   },
   {
@@ -1649,13 +1605,13 @@
     "followers_per_hr": 583,
     "last_seen": "02/Apr/2026",
     "rawg_matched": false,
-    "rawg_name": null,
-    "genres": null,
-    "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "rawg_name": "Corner Shop: NightShift",
+    "genres": "Horror",
+    "platforms": "PC",
+    "release_year": 2026,
+    "developer": "Live Motion Games",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 69,
@@ -1737,7 +1693,7 @@
     ],
     "release_year": 2018,
     "developer": "Puppet Combo",
-    "primary_genre": "Adventure",
+    "primary_genre": "Horror",
     "platform_simple": "Multi-platform"
   },
   {
@@ -2362,7 +2318,7 @@
     "rawg_matched": true,
     "rawg_name": "Granny: Escape Together",
     "genres": [
-      "Indie",
+      "Horror",
       "Adventure",
       "Action"
     ],
@@ -2411,7 +2367,7 @@
     "rawg_matched": true,
     "rawg_name": "Fears to Fathom - Carson House",
     "genres": [
-      "Casual",
+      "Horror",
       "Indie",
       "Adventure"
     ],
@@ -2586,7 +2542,7 @@
     "rawg_matched": true,
     "rawg_name": "HELLMART",
     "genres": [
-      "Indie"
+      "Horror"
     ],
     "platforms": [
       "PC"
@@ -2632,7 +2588,7 @@
     "rawg_matched": true,
     "rawg_name": "Five Nights at Freddy\u2019s: Help Wanted",
     "genres": [
-      "Casual",
+      "Horror",
       "Adventure",
       "Action"
     ],
@@ -2799,7 +2755,7 @@
     "rawg_matched": true,
     "rawg_name": "Granny Remake",
     "genres": [
-      "Indie",
+      "Horror",
       "Adventure",
       "Action"
     ],
@@ -7540,7 +7496,7 @@
       "PlayStation",
       "Nintendo"
     ],
-    "release_year": 2005,
+    "release_year": 2023,
     "developer": "Engine Software",
     "primary_genre": "Adventure",
     "platform_simple": "Multi-platform"

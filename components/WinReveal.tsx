@@ -66,7 +66,7 @@ function useDailyStats(
     })
       .then(r => r.json())
       .then((d: { count: number; distribution: Record<string, number> }) => {
-        setStats({ count: d.count, distribution: d.distribution ?? {} });
+        setStats({ count: d.count ?? null, distribution: d.distribution ?? {} });
       })
       .catch(() => {});
   // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -204,7 +204,7 @@ export default function WinReveal({ answer, guesses, won, gaveUp, mode, dayNumbe
           </div>
 
           {/* Daily rank — only in daily mode */}
-          {mode === 'daily' && playerCount !== null && (
+          {mode === 'daily' && typeof playerCount === 'number' && (
             <div className="text-center">
               <p className="text-slate-400 text-xs uppercase tracking-wider mb-0.5">Today's rank</p>
               <p className="text-2xl font-bold text-accent">{ordinal(playerCount)}</p>
@@ -213,7 +213,7 @@ export default function WinReveal({ answer, guesses, won, gaveUp, mode, dayNumbe
         </div>
 
         {/* Player count sentence */}
-        {mode === 'daily' && playerCount !== null && (
+        {mode === 'daily' && typeof playerCount === 'number' && (
           <p className="text-slate-400 text-sm">
             You are the{' '}
             <span className="text-accent font-semibold">{ordinal(playerCount)}</span>
