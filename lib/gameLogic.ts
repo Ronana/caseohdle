@@ -28,26 +28,10 @@ export function formatLastSeen(s: string | null): string {
 // ─── Individual cell comparisons ─────────────────────────────────────────────
 
 function compareGenre(guess: Game, answer: Game): CellResult {
-  const gGenres = guess.genres;
-  const aGenres = answer.genres;
-
-  if (!gGenres?.length || !aGenres?.length) {
-    return { value: guess.primary_genre ?? '?', status: 'none' };
-  }
-
-  const gSet = new Set(gGenres);
-  const overlap = aGenres.filter(g => gSet.has(g));
-
-  let status: CellStatus;
-  if (overlap.length === gGenres.length && gGenres.length === aGenres.length) {
-    status = 'match';
-  } else if (overlap.length > 0) {
-    status = 'partial';
-  } else {
-    status = 'none';
-  }
-
-  return { value: guess.primary_genre ?? gGenres[0], status };
+  const g = guess.primary_genre;
+  const a = answer.primary_genre;
+  if (!g || !a) return { value: g ?? '?', status: 'none' };
+  return { value: g, status: g === a ? 'match' : 'none' };
 }
 
 function comparePlatform(guess: Game, answer: Game): CellResult {

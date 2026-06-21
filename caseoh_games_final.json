@@ -3058,7 +3058,7 @@
     ],
     "release_year": 2025,
     "developer": "Alexi",
-    "primary_genre": "Simulation",
+    "primary_genre": "Horror",
     "platform_simple": "PC"
   },
   {
@@ -3661,13 +3661,13 @@
     "followers_per_hr": 608,
     "last_seen": "14/Feb/2026",
     "rawg_matched": false,
-    "rawg_name": null,
-    "genres": null,
-    "platforms": null,
+    "rawg_name": "Fear Night Tales: Do You Like Coffee?",
+    "genres": "Horror",
+    "platforms": "PC",
     "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "developer": "TeaPose Games",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 154,
