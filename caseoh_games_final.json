@@ -1488,7 +1488,6 @@
     "primary_genre": "Shooter",
     "platform_simple": "Multi-platform"
   },
-
   {
     "rank": 64,
     "game": "Outlast",
@@ -2027,7 +2026,7 @@
     "platforms": [
       "PC"
     ],
-    "release_year": 2024,
+    "release_year": 2023,
     "developer": "Endnight Games",
     "primary_genre": "Horror",
     "platform_simple": "PC"
@@ -2586,7 +2585,7 @@
     "followers_per_hr": 358,
     "last_seen": "13/Jul/2023",
     "rawg_matched": true,
-    "rawg_name": "Five Nights at Freddy\u2019s: Help Wanted",
+    "rawg_name": "Five Nights at Freddy’s: Help Wanted",
     "genres": [
       "Horror",
       "Adventure",
@@ -2713,7 +2712,7 @@
     "genres": "Horror",
     "platforms": "PC",
     "release_year": 2026,
-    "developer": null,
+    "developer": "Puck Games",
     "primary_genre": "Horror",
     "platform_simple": "PC"
   },
@@ -2810,7 +2809,7 @@
     "platforms": [
       "PC"
     ],
-    "release_year": 2025,
+    "release_year": 2024,
     "developer": "Sweet Banana Games",
     "primary_genre": "Adventure",
     "platform_simple": "PC"
@@ -3056,7 +3055,7 @@
     "platforms": [
       "PC"
     ],
-    "release_year": 2025,
+    "release_year": 2022,
     "developer": "Alexi",
     "primary_genre": "Horror",
     "platform_simple": "PC"
@@ -3172,7 +3171,7 @@
     "genres": "Action",
     "platforms": "PC",
     "release_year": 2026,
-    "developer": null,
+    "developer": "Fobri",
     "primary_genre": "Action",
     "platform_simple": "PC"
   },
@@ -3242,8 +3241,8 @@
     "rawg_name": "Joker Show: Horror Escape",
     "genres": "Horror",
     "platforms": "PC",
-    "release_year": 2026,
-    "developer": null,
+    "release_year": 2023,
+    "developer": "Linked Squad",
     "primary_genre": "Horror",
     "platform_simple": "PC"
   },
@@ -3404,10 +3403,10 @@
     "rawg_name": "HITMAN World of Assassination",
     "genres": "Shooter",
     "platforms": "Shooter",
-    "release_year": null,
-    "developer": null,
-    "primary_genre": "Shooter",
-    "platform_simple": "PC"
+    "release_year": 2021,
+    "developer": "IO Interactive",
+    "primary_genre": "Action",
+    "platform_simple": "PC/Console"
   },
   {
     "rank": 143,
@@ -3664,8 +3663,8 @@
     "rawg_name": "Fear Night Tales: Do You Like Coffee?",
     "genres": "Horror",
     "platforms": "PC",
-    "release_year": null,
-    "developer": "TeaPose Games",
+    "release_year": 2025,
+    "developer": "OyunKontrol",
     "primary_genre": "Horror",
     "platform_simple": "PC"
   },
@@ -3728,10 +3727,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "Searching Interactive",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 157,
@@ -3795,10 +3794,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "K148 Game Studio",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 160,
@@ -3918,10 +3917,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2019,
+    "developer": "DreadXP",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 165,
@@ -4190,10 +4189,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "616 GAMES",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 176,
@@ -4328,7 +4327,7 @@
     "followers_per_hr": 3008,
     "last_seen": "04/Jan/2024",
     "rawg_matched": true,
-    "rawg_name": "The Convenience Store | \u591c\u52e4\u4e8b\u4ef6",
+    "rawg_name": "The Convenience Store | 夜勤事件",
     "genres": [
       "Adventure",
       "Action",
@@ -4529,7 +4528,7 @@
   },
   {
     "rank": 190,
-    "game": "Creepy Shift: Uncle Joe\u2019s Motel",
+    "game": "Creepy Shift: Uncle Joe’s Motel",
     "hours_streamed": 2.3,
     "pct_airtime": 0.0457,
     "avg_viewers": 53380,
@@ -4540,10 +4539,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "Night Shift Team",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 191,
@@ -4704,10 +4703,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "Nintendo EPD",
+    "primary_genre": "Party",
+    "platform_simple": "Console"
   },
   {
     "rank": 198,
@@ -4788,7 +4787,7 @@
     "followers_per_hr": 1046,
     "last_seen": "08/Jan/2026",
     "rawg_matched": true,
-    "rawg_name": "Japan Stigmatized Property -\u65e5\u672c\u4e8b\u6545\u7269\u4ef6\u76e3\u8996\u5354\u4f1a",
+    "rawg_name": "Japan Stigmatized Property -日本事故物件監視協会",
     "genres": [
       "Casual",
       "Indie",
@@ -4817,10 +4816,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "Podoba Interactive",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 203,
@@ -5008,7 +5007,7 @@
       "PC"
     ],
     "release_year": 2024,
-    "developer": "\u00c7a\u011fatay Demir",
+    "developer": "Çağatay Demir",
     "primary_genre": "Casual",
     "platform_simple": "PC"
   },
@@ -5520,7 +5519,7 @@
     "followers_per_hr": 573,
     "last_seen": "22/Oct/2025",
     "rawg_matched": true,
-    "rawg_name": "You\u2019ve Got a Package",
+    "rawg_name": "You’ve Got a Package",
     "genres": [
       "Indie",
       "Simulation"
@@ -5666,10 +5665,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2021,
+    "developer": "Puppet Combo",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 239,
@@ -5684,10 +5683,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "KeeraGames",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 240,
@@ -5773,10 +5772,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "Zakym",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 244,
@@ -6240,7 +6239,7 @@
     "followers_per_hr": 645,
     "last_seen": "30/Aug/2025",
     "rawg_matched": true,
-    "rawg_name": "Sasaeng | \uc0ac\uc0dd",
+    "rawg_name": "Sasaeng | 사생",
     "genres": [
       "Indie",
       "Adventure",
@@ -6484,10 +6483,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "Real Fake Games",
+    "primary_genre": "Simulation",
+    "platform_simple": "PC"
   },
   {
     "rank": 274,
@@ -6621,10 +6620,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2023,
+    "developer": "IndieGames Studio",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 280,
@@ -6686,10 +6685,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "Yellow Basement Games",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 283,
@@ -7074,10 +7073,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
+    "release_year": 2025,
     "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 299,
@@ -7092,10 +7091,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "MixoGames",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 300,
@@ -7301,10 +7300,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "Massbolt Games",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 309,
@@ -7419,7 +7418,7 @@
       "PlayStation",
       "Xbox"
     ],
-    "release_year": 2024,
+    "release_year": 2023,
     "developer": "Red Barrels",
     "primary_genre": "Adventure",
     "platform_simple": "Multi-platform"
@@ -7633,10 +7632,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "VoVora Games",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 324,
@@ -8212,7 +8211,7 @@
     "followers_per_hr": 1067,
     "last_seen": "08/Mar/2025",
     "rawg_matched": true,
-    "rawg_name": "\u00c1m",
+    "rawg_name": "Ám",
     "genres": [],
     "platforms": [
       "Web"
@@ -8232,7 +8231,7 @@
     "followers_per_hr": 2182,
     "last_seen": "02/Aug/2024",
     "rawg_matched": true,
-    "rawg_name": "\u9664\u90aa(CHUXIE)",
+    "rawg_name": "除邪(CHUXIE)",
     "genres": [
       "Adventure",
       "Action"
@@ -8285,10 +8284,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "FH Create Inc",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 353,
@@ -8472,10 +8471,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "GrantRimi",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 361,
@@ -8735,7 +8734,7 @@
   },
   {
     "rank": 372,
-    "game": "\u300aBack\u300b",
+    "game": "《Back》",
     "hours_streamed": 1.2,
     "pct_airtime": 0.0238,
     "avg_viewers": 51832,
@@ -8746,10 +8745,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2024,
+    "developer": "MYSTERY CROWN",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 373,
@@ -9166,7 +9165,7 @@
       "Mac"
     ],
     "release_year": 2017,
-    "developer": "Kaigan Games O\u00dc",
+    "developer": "Kaigan Games OÜ",
     "primary_genre": "Adventure",
     "platform_simple": "Multi-platform"
   },
@@ -9301,10 +9300,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "Tainted Pact Games",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 396,
@@ -9396,10 +9395,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "SwyTapp Games",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 400,
@@ -9414,10 +9413,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "Tykenn",
+    "primary_genre": "Action",
+    "platform_simple": "PC"
   },
   {
     "rank": 401,
@@ -9500,7 +9499,7 @@
     "followers_per_hr": 3676,
     "last_seen": "24/Jan/2024",
     "rawg_matched": true,
-    "rawg_name": "Missing Children | \u884c\u65b9\u4e0d\u660e",
+    "rawg_name": "Missing Children | 行方不明",
     "genres": [
       "Adventure",
       "Action",
@@ -9757,10 +9756,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "ThreeFrauds",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 415,
@@ -9894,10 +9893,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "sam2008",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 421,
@@ -9912,10 +9911,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "N4bA",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 422,
@@ -10790,10 +10789,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2017,
+    "developer": "Puppet Combo",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 459,
@@ -11016,7 +11015,7 @@
     "platforms": [
       "PC"
     ],
-    "release_year": 2024,
+    "release_year": 2023,
     "developer": "Digital Forge",
     "primary_genre": "Adventure",
     "platform_simple": "PC"
@@ -11412,7 +11411,7 @@
     "followers_per_hr": 3127,
     "last_seen": "29/Jan/2024",
     "rawg_matched": true,
-    "rawg_name": "SpongeBob SquarePants: Battle for Bikini Bottom \u2014 Rehydrated",
+    "rawg_name": "SpongeBob SquarePants: Battle for Bikini Bottom — Rehydrated",
     "genres": [
       "Family",
       "Platformer",
@@ -11841,7 +11840,7 @@
   },
   {
     "rank": 503,
-    "game": "Anyone in the House\uff1f",
+    "game": "Anyone in the House？",
     "hours_streamed": 0.8,
     "pct_airtime": 0.0159,
     "avg_viewers": 54166,
@@ -11849,7 +11848,7 @@
     "followers_per_hr": 532,
     "last_seen": "21/Nov/2025",
     "rawg_matched": true,
-    "rawg_name": "Anyone in the house\uff1f",
+    "rawg_name": "Anyone in the house？",
     "genres": [
       "Indie",
       "Adventure",
@@ -12048,7 +12047,7 @@
     "platforms": [
       "PC"
     ],
-    "release_year": 2025,
+    "release_year": 2024,
     "developer": "dvtzr",
     "primary_genre": "Adventure",
     "platform_simple": "PC"
@@ -12205,7 +12204,7 @@
     "followers_per_hr": 1693,
     "last_seen": "09/Dec/2024",
     "rawg_matched": true,
-    "rawg_name": "PlayerUnknown\u2019s Battlegrounds",
+    "rawg_name": "PlayerUnknown’s Battlegrounds",
     "genres": [
       "Shooter",
       "Massively Multiplayer",
@@ -12976,10 +12975,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "RAYBIS GAMES",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 552,
@@ -12993,10 +12992,10 @@
     "rawg_matched": false,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2024,
+    "developer": "TenkaiGames",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 553,
@@ -13149,7 +13148,7 @@
     "followers_per_hr": 627,
     "last_seen": "25/Apr/2026",
     "rawg_matched": true,
-    "rawg_name": "The World\u2019s Hardest Game",
+    "rawg_name": "The World’s Hardest Game",
     "genres": [
       "Casual",
       "Platformer",
@@ -13279,10 +13278,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "Puppet House Games",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 565,
@@ -13330,7 +13329,7 @@
       "PC",
       "PlayStation"
     ],
-    "release_year": 2025,
+    "release_year": 2023,
     "developer": "AdHoc Studio",
     "primary_genre": "Adventure",
     "platform_simple": "Multi-platform"
@@ -13460,10 +13459,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2022,
+    "developer": "Steelkrill Studio",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 573,
@@ -13483,7 +13482,7 @@
       "PC",
       "Android"
     ],
-    "release_year": 2024,
+    "release_year": 2023,
     "developer": "Fearless Games",
     "primary_genre": "Adventure",
     "platform_simple": "Multi-platform"
@@ -13525,10 +13524,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "SolitaryStudios",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 576,
@@ -13549,7 +13548,7 @@
     "platforms": [
       "PC"
     ],
-    "release_year": 2025,
+    "release_year": 2023,
     "developer": "Finley Southwick",
     "primary_genre": "Casual",
     "platform_simple": "PC"
@@ -13633,10 +13632,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2024,
+    "developer": "616 GAMES",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 581,
@@ -13651,10 +13650,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "OnTheHouse Studios",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 582,
@@ -13844,7 +13843,7 @@
   },
   {
     "rank": 590,
-    "game": "True Nightmare: Roadside \u0421afe",
+    "game": "True Nightmare: Roadside Сafe",
     "hours_streamed": 0.7,
     "pct_airtime": 0.0139,
     "avg_viewers": 56984,
@@ -13852,7 +13851,7 @@
     "followers_per_hr": 1130,
     "last_seen": "11/Nov/2024",
     "rawg_matched": true,
-    "rawg_name": "True Nightmare - Roadside \u0421afe",
+    "rawg_name": "True Nightmare - Roadside Сafe",
     "genres": [
       "Casual",
       "Adventure"
@@ -13860,7 +13859,7 @@
     "platforms": [
       "PC"
     ],
-    "release_year": 2025,
+    "release_year": 2024,
     "developer": "Frost Fox Studios",
     "primary_genre": "Casual",
     "platform_simple": "PC"
@@ -14335,7 +14334,7 @@
     "platforms": [
       "PC"
     ],
-    "release_year": 2024,
+    "release_year": 2023,
     "developer": "Grant Marrs",
     "primary_genre": "Adventure",
     "platform_simple": "PC"
@@ -14474,7 +14473,7 @@
     "followers_per_hr": 888,
     "last_seen": "28/Apr/2025",
     "rawg_matched": true,
-    "rawg_name": "\u30cb\u30b3\u30cb\u30b3\u3055\u3093 | Niconico-san",
+    "rawg_name": "ニコニコさん | Niconico-san",
     "genres": [
       "Indie",
       "Adventure",
@@ -14593,10 +14592,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2023,
+    "developer": "spongebros",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 622,
@@ -14761,7 +14760,7 @@
   },
   {
     "rank": 629,
-    "game": "Kola \u0410byss",
+    "game": "Kola Аbyss",
     "hours_streamed": 0.5,
     "pct_airtime": 0.0099,
     "avg_viewers": 57176,
@@ -14769,7 +14768,7 @@
     "followers_per_hr": 584,
     "last_seen": "14/Nov/2025",
     "rawg_matched": true,
-    "rawg_name": "Kola \u0410byss",
+    "rawg_name": "Kola Аbyss",
     "genres": [
       "Indie",
       "Simulation"
@@ -14894,7 +14893,7 @@
       "PC",
       "Mac"
     ],
-    "release_year": 2024,
+    "release_year": 2023,
     "developer": "Stasis Booth Games",
     "primary_genre": "Adventure",
     "platform_simple": "PC"
@@ -14982,10 +14981,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "foolkien",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 639,
@@ -15024,10 +15023,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "Jaden Williams",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 641,
@@ -15042,10 +15041,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "David Gallardo",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 642,
@@ -15200,10 +15199,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2024,
+    "developer": "Infinity Entertainment",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 649,
@@ -15925,10 +15924,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "RanSio",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 679,
@@ -16156,7 +16155,7 @@
     "followers_per_hr": 1096,
     "last_seen": "05/Oct/2024",
     "rawg_matched": true,
-    "rawg_name": "Stigmatized Property | \u4e8b\u6545\u7269\u4ef6",
+    "rawg_name": "Stigmatized Property | 事故物件",
     "genres": [
       "Casual",
       "Indie",
@@ -16274,10 +16273,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "Absam Studios",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 694,
@@ -16454,10 +16453,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2025,
+    "developer": "Japan Stigmatized Property Assoc.",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 702,
@@ -16519,10 +16518,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "Beshbarmak games",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 705,
@@ -16559,10 +16558,10 @@
     "rawg_matched": false,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2024,
+    "developer": "Disconfucius",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 707,
@@ -16768,7 +16767,7 @@
     "followers_per_hr": 1341,
     "last_seen": "05/Aug/2023",
     "rawg_matched": true,
-    "rawg_name": "Aka Manto | \u8d64\u30de\u30f3\u30c8",
+    "rawg_name": "Aka Manto | 赤マント",
     "genres": [
       "Adventure",
       "Action",
@@ -17125,10 +17124,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2024,
+    "developer": "AzaGameStudio",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 732,
@@ -17395,10 +17394,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2023,
+    "developer": "arydk",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 744,
@@ -17536,10 +17535,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2024,
+    "developer": "Insertrave",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 750,
@@ -17646,10 +17645,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2024,
+    "developer": "Natsukig-Chan",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 755,
@@ -17705,7 +17704,7 @@
     "followers_per_hr": 1290,
     "last_seen": "06/Sep/2024",
     "rawg_matched": true,
-    "rawg_name": "\u5899\u4e4b\u6050\u60e7: The Walls Still Stand",
+    "rawg_name": "墙之恐惧: The Walls Still Stand",
     "genres": [
       "Indie",
       "Adventure",
@@ -17856,7 +17855,7 @@
       "PC"
     ],
     "release_year": 2025,
-    "developer": "Mat\u00edas Avil\u00e9s",
+    "developer": "Matías Avilés",
     "primary_genre": "Casual",
     "platform_simple": "PC"
   },
@@ -17899,10 +17898,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2024,
+    "developer": "Viexi Games",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 766,
@@ -18135,10 +18134,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2026,
+    "developer": "UsamaIndieDev",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 776,
@@ -18456,10 +18455,10 @@
     "rawg_matched": false,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2024,
+    "developer": "Aspsyxia",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 789,
@@ -18734,10 +18733,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2024,
+    "developer": "Max Horror",
+    "primary_genre": "Horror",
+    "platform_simple": "PC"
   },
   {
     "rank": 801,
@@ -18856,7 +18855,7 @@
   },
   {
     "rank": 806,
-    "game": "The Bathhouse | \u5730\u7344\u92ad\u6e6f",
+    "game": "The Bathhouse | 地獄銭湯",
     "hours_streamed": 0.2,
     "pct_airtime": 0.004,
     "avg_viewers": 63628,
@@ -18864,7 +18863,7 @@
     "followers_per_hr": 1182,
     "last_seen": "11/Aug/2024",
     "rawg_matched": true,
-    "rawg_name": "The Bathhouse | \u5730\u7344\u92ad\u6e6f",
+    "rawg_name": "The Bathhouse | 地獄銭湯",
     "genres": [
       "Indie"
     ],
@@ -18982,10 +18981,10 @@
     "rawg_name": null,
     "genres": null,
     "platforms": null,
-    "release_year": null,
-    "developer": null,
-    "primary_genre": null,
-    "platform_simple": null
+    "release_year": 2023,
+    "developer": "McDonald's",
+    "primary_genre": "Casual",
+    "platform_simple": "Mobile"
   },
   {
     "rank": 812,
